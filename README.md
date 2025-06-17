@@ -1,4 +1,4 @@
-# SEO Python Scripts
+# Sean Hecking SEO Python Scripts
 
 A collection of Python scripts designed to assist with common Search Engine Optimization (SEO) tasks such as XML site map, metadata auditing, sitemap validation, error pages, link checks, and more.
 
