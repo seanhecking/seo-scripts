@@ -78,7 +78,7 @@ def create_sitemap(urls, output_filename="sitemap.xml"):
 
 # Example usage:
 # Replace with the starting URL of the website you want to crawl
-start_url = "https://demo.ghost.io"
+start_url = "YOUR_WEBSITE_URL_HERE"
 
 # Crawl the website to get all internal pages
 all_pages = crawl_website(start_url)
