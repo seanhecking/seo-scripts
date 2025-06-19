@@ -6,6 +6,7 @@ A collection of Python scripts designed to assist with common Search Engine Opti
 
 - **404 Error Page Checker** – Crawls a website to find 404 error pages and links, then creates a CSV file.
 - **XML Sitemap Generator** – Crawls a website and creates an XML sitemap manually.
+- **Reading Scores** – Crawls a website and finds the reading scores for each page, then saves to a CSV file.
 - **Flexible & Modular** – Easy to modify, extend, or integrate into your pipeline.
 
 ---
