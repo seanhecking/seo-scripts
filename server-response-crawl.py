@@ -76,7 +76,7 @@ def crawl_and_collect_status_codes(start_url, output_filename="url_status_codes.
 
 # Example usage:
 # Replace with the starting URL of the website you want to crawl
-start_url = "https://demo.ghost.io/" # Or any other website you want to crawl
+start_url = "YOUR_WEBSITE_FULL_URL"
 
 # Crawl the website and collect status codes
 crawl_and_collect_status_codes(start_url)
