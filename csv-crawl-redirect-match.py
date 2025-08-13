@@ -9,6 +9,7 @@ file_path = 'my-csv-file.csv'
 df = pd.read_csv(file_path)
 
 # Rename columns for clarity
+### USE THESE ARE HEADERS IN YOUR CSV FILE 'staging_url', 'public_url' ####
 df.columns = ['staging_url', 'public_url']
 
 # Drop rows with missing values
